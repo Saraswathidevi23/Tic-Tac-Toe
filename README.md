@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-created using html,css and javascript
+# Created with Html,Css and javaScript Functionality.
+# Fun Game to relax brain stress
